@@ -1,7 +1,6 @@
 # php-scripts
 
-jirojs <br>
-<p>
+<p>jirojs </p>
 1. jiromusic: music streaming
 2. jiroflix: video streaming
 3. jiromedia: network of chefs spending time productively
@@ -14,4 +13,4 @@ jirojs <br>
 8. jiroment: investment app for both time and money
 9. jiroscripts: DL applied to scripts
 10. jirocoins: blockchain named after jiro
-</p>
+
