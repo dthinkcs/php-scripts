@@ -1,14 +1,17 @@
 # php-scripts
 
 jirojs <br>
-0. jiromusic
-1. jiroflix
-2. jiromedia
-3. jirosearch(jirosan)
+<p>
+1. jiromusic: music streaming
+2. jiroflix: video streaming
+3. jiromedia: network of chefs spending time productively
+4. jirosearch(jirosan): searching distraction free
 ---
-4. jiroblog
+5. jiroblog: journal
 ---
-5. jiroshop
-6. jiropay
-7. jirobank
-8. jirostocks
+6. jirotimer: timer + speed reading app game for mobile
+7. jirotrips: trip management app
+8. jiroment: investment app for both time and money
+9. jiroscripts: DL applied to scripts
+10. jirocoins: blockchain named after jiro
+</p>
