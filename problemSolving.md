@@ -1,0 +1,8 @@
+GYHD
+PWT
+DivConquer
+RecIndPMI
+ExhaustiveSearch
+Backtracking
+DynamicProgramming
+GreedyTech
