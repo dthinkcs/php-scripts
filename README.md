@@ -17,7 +17,9 @@ JIRO ANALYTICS
 
 
 Microsoft 903.40B
+
 Amazon 877.29B
+
 SamsungR&D 743.89B
 
 
