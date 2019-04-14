@@ -19,7 +19,7 @@ JIRO ANALYTICS
 ---
 
 learning:: ultimately if the goal is to learn, then online is the best option. <br>
-research:: only if you find that which you are interested in -> before applying it has to be clear -> projects interesting ex. <b>31 hrs </b> up <br>
+research:: only if you find that which you are interested in -> before applying it has to be clear -> projects interesting ex. straight <b>31 hrs </b> up <br>
 
 The 1992 model of doing all the middlework to get to somewhere is NOT efficient. <br>
 The 2022 model for learning is ONLINE.
