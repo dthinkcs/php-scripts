@@ -18,7 +18,7 @@ JIRO ANALYTICS
 
 ---
 
-ultimately if the goal is to learn, then online is the best option. <br>
+learning:: ultimately if the goal is to learn, then online is the best option. <br>
 research:: only if you find that which you are interested in -> before applying it has to be clear -> projects interesting ex. 31 hrs up
 
 Microsoft 903.40B
