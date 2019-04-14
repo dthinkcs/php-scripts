@@ -16,7 +16,11 @@ JIRO ANALYTICS
 10. jirocoins: blockchain named after jiro
 
 
-DADSA
+---
+
+ultimately if the goal is to learn online
+research -> only if you find that which you are interested in -> before applying it has to be clear -> projects interesting ex. 31 hrs up
+
 Microsoft 903.40B
 
 Amazon 877.29B
