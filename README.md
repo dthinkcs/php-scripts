@@ -22,7 +22,7 @@ learning:: ultimately if the goal is to learn, then online is the best option. <
 research:: only if you find that which you are interested in -> before applying it has to be clear -> projects interesting ex. straight <b>32 hrs </b> up from 7 am till 3pm the next day <br>
 
 The 1992 model of doing all the middlework to get to somewhere is NOT efficient. <br>
-The 2022 model for learning is ONLINE.
+The 2022 model for learning is ONLINE. (not $200,000 in debt)
 
 
 Microsoft 903.40B
