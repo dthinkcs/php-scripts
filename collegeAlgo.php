@@ -1,10 +1,12 @@
-IIT
+IITs
 
 IIITHyderabad
 BITSPilani,Goa,Hyderabad
 IIITDelhi
 IIITBangalore
 IIITAllahabad
-NIT(top),NSIT,DTU,BITMesra
-Manipal (∞)
+NITs(Trichy, Rourkela, Surathkal, Warangal), NSIT, DTU, BITMesra
+Manipal(∞)
 Thapar
+PEC
+USIT
